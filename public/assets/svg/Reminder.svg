@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewBox="0 0 120 120" width="256" height="256">
+  <path fill="#ffffff" d="M26,0H94a25.94821,25.94821,0,0,1,26,26V94a25.94821,25.94821,0,0,1-26,26H26A25.94822,25.94822,0,0,1,0,94V26A26.07645,26.07645,0,0,1,26,0Z" class="colorfff svgShape"></path>
+  <circle cx="21" cy="30" r="9" fill="none" stroke="#196aff" class="colorStroke196aff svgStroke"></circle>
+  <circle cx="21" cy="30" r="6" fill="#196aff" class="color196aff svgShape"></circle>
+  <g data-name="Checkbox" fill="#000000" class="color000 svgShape">
+    <circle cx="21" cy="60" r="9" fill="none" stroke="#f22d22" data-name="Oval" class="colorStrokef22d22 svgStroke"></circle>
+    <circle cx="21" cy="60" r="6" fill="#f22d22" data-name="Oval-6" class="colorf22d22 svgShape"></circle>
+  </g>
+  <g data-name="Checkbox" fill="#000000" class="color000 svgShape">
+    <circle cx="21" cy="90" r="9" fill="none" stroke="#ff9500" data-name="Oval" class="colorStrokeff9500 svgStroke"></circle>
+    <circle cx="21" cy="90" r="6" fill="#ff9500" data-name="Oval-6" class="colorff9500 svgShape"></circle>
+  </g>
+  <path fill="#c7c7cc" fill-rule="evenodd" d="M44,29h60a.94477.94477,0,0,1,1,1h0a.94477.94477,0,0,1-1,1H44a.94477.94477,0,0,1-1-1h0A1.07539,1.07539,0,0,1,44,29Z" class="colorc7c7cc svgShape"></path>
+  <path fill="#c7c7cc" fill-rule="evenodd" d="M44 59h60a.94477.94477 0 0 1 1 1h0a.94477.94477 0 0 1-1 1H44a.94477.94477 0 0 1-1-1h0A1.07539 1.07539 0 0 1 44 59zM44 89h60a.94477.94477 0 0 1 1 1h0a.94477.94477 0 0 1-1 1H44a.94477.94477 0 0 1-1-1h0A1.07539 1.07539 0 0 1 44 89z" data-name="Separator" class="colorc7c7cc svgShape"></path>
+</svg>

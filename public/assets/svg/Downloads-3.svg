@@ -1,0 +1,15 @@
+<svg id="SvgjsSvg1023" width="256" height="256" xmlns="http://www.w3.org/2000/svg" version="1.1"
+  xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs">
+  <defs id="SvgjsDefs1024"></defs>
+  <g id="SvgjsG1025"><svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 512 512" viewBox="0 0 512 512"
+      width="256" height="256">
+      <circle cx="256" cy="256" r="252.5" fill="#fd8469" class="colorFD8469 svgShape"></circle>
+      <path fill="#ffffff"
+        d="M395.4,208.4h-15c0-38.3-31.1-69.4-69.4-69.4c-13.4,0-25.9,3.9-36.6,10.5c-12.9-33.7-45.4-57.7-83.7-57.7    c-49.5,0-89.6,40.1-89.6,89.6c0,9.8,1.6,19.3,4.6,28.1c-23.4,5-41,25.8-41,50.8c0,28.7,23.3,52,52,52h278.8c28.7,0,52-23.3,52-52    C447.4,231.7,424.1,208.4,395.4,208.4z"
+        class="colorFFF svgShape"></path>
+      <polygon fill="#4cdbc4" points="287.7 361.7 314.5 361.7 256 420.2 197.5 361.7 224.3 361.7 224.3 266.8 287.7 266.8"
+        class="color4CDBC4 svgShape"></polygon>
+      <rect width="63.4" height="24.3" x="224.3" y="231.9" fill="#4cdbc4" class="color4CDBC4 svgShape"></rect>
+      <rect width="63.4" height="26.2" x="224.3" y="195.1" fill="#4cdbc4" class="color4CDBC4 svgShape"></rect>
+    </svg></g>
+</svg>

@@ -1,0 +1,24 @@
+<svg id="SvgjsSvg1031" width="256" height="256" xmlns="http://www.w3.org/2000/svg" version="1.1"
+  xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs">
+  <defs id="SvgjsDefs1032"></defs>
+  <g id="SvgjsG1033"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10" width="256" height="256">
+      <linearGradient id="a" x1="242.797" x2="251.203" y1="-324.695" y2="-324.695"
+        gradientTransform="matrix(1 0 0 -1 -242 -321)" gradientUnits="userSpaceOnUse">
+        <stop offset="0" stop-color="#b600ff" class="stopColorb600ff svgShape"></stop>
+        <stop offset=".045" stop-color="#ae07ff" class="stopColorae07ff svgShape"></stop>
+        <stop offset="1" stop-color="#0097ff" class="stopColor0097ff svgShape"></stop>
+      </linearGradient>
+      <path fill="url(#a)"
+        d="M7.658 2.552A2.458 2.458 0 0 0 6.896 1.2a2.459 2.459 0 0 0-1.67-.649c-.482 0-.947.137-1.344.396a2.505 2.505 0 0 0-.769.785 1.396 1.396 0 0 0-1.579 1.615c-.464.36-.737.917-.737 1.503 0 .493.184.97.516 1.345.343.389.798.618 1.302.645h1.451a.328.328 0 1 0 0-.654H2.629c-.639-.04-1.178-.653-1.178-1.338 0-.441.238-.854.621-1.078a.332.332 0 0 0 .143-.397.748.748 0 0 1 .955-.959c.154.06.34-.018.41-.166a1.833 1.833 0 0 1 1.648-1.046c.943 0 1.723.707 1.813 1.645a.325.325 0 0 0 .271.291c.704.121 1.235.772 1.235 1.515 0 .785-.619 1.472-1.373 1.531H5.93a.326.326 0 0 0 0 .654h1.275a2.12 2.12 0 0 0 1.422-.699 2.21 2.21 0 0 0 .576-1.485c-.002-.961-.648-1.834-1.545-2.102z">
+      </path>
+      <linearGradient id="b" x1="242.796" x2="251.205" y1="-327.963" y2="-327.963"
+        gradientTransform="matrix(1 0 0 -1 -242 -321)" gradientUnits="userSpaceOnUse">
+        <stop offset="0" stop-color="#b600ff" class="stopColorb600ff svgShape"></stop>
+        <stop offset=".045" stop-color="#ae07ff" class="stopColorae07ff svgShape"></stop>
+        <stop offset="1" stop-color="#0097ff" class="stopColor0097ff svgShape"></stop>
+      </linearGradient>
+      <path fill="url(#b)"
+        d="M3.563 7.684a.312.312 0 0 0-.095.231c0 .088.033.17.096.229l1.207 1.209a.338.338 0 0 0 .461 0L6.44 8.144a.329.329 0 0 0 0-.463.338.338 0 0 0-.463.003l-.65.646V4.81a.327.327 0 1 0-.654.001v3.52l-.647-.647a.335.335 0 0 0-.463 0zm1.309-2.873a.128.128 0 1 1 .256 0v3.761c0 .039.025.076.063.093a.097.097 0 0 0 .037.007c.027 0 .053-.01.07-.029l.82-.817c.043-.048.129-.05.178 0a.127.127 0 0 1 .002.182L5.089 9.213c-.045.048-.133.044-.178 0L3.704 8.004a.13.13 0 0 1-.037-.089c0-.034.014-.065.037-.092a.133.133 0 0 1 .18 0l.818.817a.1.1 0 0 0 .171-.07l-.001-3.759z">
+      </path>
+    </svg></g>
+</svg>

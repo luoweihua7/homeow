@@ -1,0 +1,48 @@
+<svg width="256" height="256" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:svgjs="http://svgjs.com/svgjs"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="256"
+    height="256">
+    <g data-name="Layer 11" class="prefix__color000 prefix__svgShape">
+      <rect width="480" height="384" x="16" y="60.5" fill="#7b87d0" rx="24"
+        class="prefix__color7b87d0 prefix__svgShape" />
+      <rect width="464" height="384" x="32" y="60.5" fill="#a4addf" rx="24"
+        class="prefix__colora4addf prefix__svgShape" />
+      <path fill="#7b87d0" class="prefix__color7b87d0 prefix__svgShape" d="M48 444.5h64v32H48zM400 444.5h64v32h-64z" />
+      <path fill="#c8cded" class="prefix__colorc8cded prefix__svgShape" d="M48 92.5h64v320H48z" />
+      <path fill="#e2e7f6" d="M80 92.5a16 16 0 00-16 16v288a16 16 0 0016 16h32v-320z"
+        class="prefix__colore2e7f6 prefix__svgShape" />
+      <path fill="#e6b25e" class="prefix__colore6b25e prefix__svgShape" d="M432 220.5h64v32h-64z" />
+      <path fill="#f3d16e" d="M456 220.5a8 8 0 00-8 8v16a8 8 0 008 8h40v-32z"
+        class="prefix__colorf3d16e prefix__svgShape" />
+      <circle cx="448" cy="396.5" r="16" fill="#e6b25e" class="prefix__colore6b25e prefix__svgShape" />
+      <ellipse cx="456" cy="396.5" fill="#f3d16e" rx="8" ry="13.781" class="prefix__colorf3d16e prefix__svgShape" />
+      <path fill="#7b87d0"
+        d="M80 388.5a8 8 0 01-8-8v-8a8 8 0 0116 0v8a8 8 0 01-8 8zm0-248a8 8 0 01-8-8v-8a8 8 0 0116 0v8a8 8 0 01-8 8z"
+        class="prefix__color7b87d0 prefix__svgShape" />
+      <path fill="#c8cded" class="prefix__colorc8cded prefix__svgShape" d="M144 92.5h64v320h-64z" />
+      <path fill="#e2e7f6" d="M176 92.5a16 16 0 00-16 16v288a16 16 0 0016 16h32v-320z"
+        class="prefix__colore2e7f6 prefix__svgShape" />
+      <path fill="#7b87d0"
+        d="M176 388.5a8 8 0 01-8-8v-8a8 8 0 0116 0v8a8 8 0 01-8 8zm0-248a8 8 0 01-8-8v-8a8 8 0 0116 0v8a8 8 0 01-8 8z"
+        class="prefix__color7b87d0 prefix__svgShape" />
+      <path fill="#c8cded" class="prefix__colorc8cded prefix__svgShape" d="M240 92.5h64v320h-64z" />
+      <path fill="#e2e7f6" d="M272 92.5a16 16 0 00-16 16v288a16 16 0 0016 16h32v-320z"
+        class="prefix__colore2e7f6 prefix__svgShape" />
+      <path fill="#7b87d0"
+        d="M272 388.5a8 8 0 01-8-8v-8a8 8 0 0116 0v8a8 8 0 01-8 8zm0-248a8 8 0 01-8-8v-8a8 8 0 0116 0v8a8 8 0 01-8 8z"
+        class="prefix__color7b87d0 prefix__svgShape" />
+      <path fill="#c8cded" class="prefix__colorc8cded prefix__svgShape" d="M336 92.5h64v320h-64z" />
+      <path fill="#e2e7f6" d="M368 92.5a16 16 0 00-16 16v288a16 16 0 0016 16h32v-320z"
+        class="prefix__colore2e7f6 prefix__svgShape" />
+      <path fill="#7b87d0"
+        d="M368 388.5a8 8 0 01-8-8v-8a8 8 0 0116 0v8a8 8 0 01-8 8zm0-248a8 8 0 01-8-8v-8a8 8 0 0116 0v8a8 8 0 01-8 8z"
+        class="prefix__color7b87d0 prefix__svgShape" />
+      <circle cx="448" cy="332.5" r="16" fill="#e6b25e" class="prefix__colore6b25e prefix__svgShape" />
+      <ellipse cx="456" cy="332.5" fill="#f3d16e" rx="8" ry="13.781" class="prefix__colorf3d16e prefix__svgShape" />
+      <path fill="#e6b25e" class="prefix__colore6b25e prefix__svgShape" d="M432 156.5h64v32h-64z" />
+      <path fill="#f3d16e" d="M456 156.5a8 8 0 00-8 8v16a8 8 0 008 8h40v-32z"
+        class="prefix__colorf3d16e prefix__svgShape" />
+      <path fill="#e6b25e" class="prefix__colore6b25e prefix__svgShape" d="M432 92.5h64v32h-64z" />
+      <path fill="#f3d16e" d="M456 92.5a8 8 0 00-8 8v16a8 8 0 008 8h40v-32z"
+        class="prefix__colorf3d16e prefix__svgShape" />
+    </g>
+  </svg></svg>

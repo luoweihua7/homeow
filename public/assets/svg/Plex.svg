@@ -1,0 +1,9 @@
+<svg id="SvgjsSvg1001" width="256" height="256" xmlns="http://www.w3.org/2000/svg" version="1.1"
+  xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs">
+  <defs id="SvgjsDefs1002"></defs>
+  <g id="SvgjsG1008"><svg xmlns="http://www.w3.org/2000/svg" aria-label="Plex" viewBox="0 0 512 512" width="256"
+      height="256">
+      <rect width="512" height="512" fill="#282a2d" rx="15%" class="color282a2d svgShape"></rect>
+      <path fill="#e5a00d" d="m256 70h-108l108 186-108 186h108l108-186z" class="colore5a00d svgShape"></path>
+    </svg></g>
+</svg>
