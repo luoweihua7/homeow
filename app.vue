@@ -1,0 +1,4 @@
+<template>
+  <VisionView />
+  <!-- <HexagonalView /> -->
+</template>
